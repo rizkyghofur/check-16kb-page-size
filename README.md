@@ -4,10 +4,8 @@ A beautiful, fully-featured, cross-platform Desktop Application built with Flutt
 
 ## Screenshots
 
-<!-- markdownlint-disable MD033 -->
-<img src="screenshots/1.png" width="700" alt="App Screenshot 1"><br><br>
-<img src="screenshots/2.png" width="700" alt="App Screenshot 2">
-<!-- markdownlint-restore -->
+![App Screenshot 1](screenshots/1.png)
+![App Screenshot 2](screenshots/2.png)
 
 ## Overview
 
